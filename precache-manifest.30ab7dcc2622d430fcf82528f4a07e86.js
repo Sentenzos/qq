@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "22867f077d01cf588e84515a05f5cccc",
+    "revision": "7e8a422178d9745dde6615bbcf781b84",
     "url": "/qq/index.html"
   },
   {
@@ -8,15 +8,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/qq/static/css/2.a5fde339.chunk.css"
   },
   {
-    "revision": "3de3b11ac8d93e60019f",
-    "url": "/qq/static/css/main.38dda980.chunk.css"
+    "revision": "f74120a28f92abd4040a",
+    "url": "/qq/static/css/main.e1c2ba3c.chunk.css"
   },
   {
     "revision": "fa919e6ae9461260f2ad",
     "url": "/qq/static/js/2.c4277fbd.chunk.js"
   },
   {
-    "revision": "3de3b11ac8d93e60019f",
+    "revision": "f74120a28f92abd4040a",
     "url": "/qq/static/js/main.2198cbdc.chunk.js"
   },
   {
