@@ -1,0 +1,482 @@
+.profile-avatar {
+  float: left;
+  background-color: white;
+  padding: 0.5rem;
+  width: 12.5rem;
+  border-radius: 0.25rem;
+  border: solid 1px rgba(128, 128, 128, 0.200);
+}
+
+.profile-avatar__avatar {
+  background-image: url("../../assets/img/avatar.png");
+  background-size: cover;
+  background-position: center center;
+  border-radius: 0.25rem;
+  height: 12.5rem;
+  width: 12.5rem;
+}
+
+.profile-avatar__file {
+  width: 0.1px;
+  height: 0.1px;
+  opacity: 0;
+  position: absolute;
+  z-index: -1;
+}
+
+.profile-avatar__Label {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1rem;
+  width: 12.5rem;
+  height: 1.5rem;
+  margin-top: 0.5rem;
+  border-radius: 0.25rem;
+  border: 1px solid rgba(128, 128, 128, 0.37);
+  font-family: 'Ubuntu', sans-serif;
+  color: rgb(56, 56, 56);
+}
+
+.profile-avatar__Label:hover, .edit-button:hover  {
+  border: 1px solid rgba(128, 128, 128, 0.699);
+  background-color: rgba(167, 237, 255, 0.158);
+  cursor: pointer;
+}
+
+.profile-description {
+  background-color: white;
+  border-radius: 0.25rem;
+  margin-left: 14.5rem;
+  border: solid 1px rgba(128, 128, 128, 0.200);
+  padding-bottom: 1rem;
+}
+
+.edit-button {
+  float: left;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 2rem;
+  height: 1.5rem;
+  border: solid 1px rgba(128, 128, 128, 0.37);
+  border-radius: 0.25rem;
+  margin-left: 1rem;
+  margin-top: 0.5rem;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 0.9rem;
+}
+
+.edit-button:hover .edit-button__img {
+  opacity: 70%;
+}
+
+.edit-button__img {
+  height: 1.25rem;
+  opacity: 60%;
+}
+
+.profile-description__name {
+  text-align: right;
+  font-size: 1.4rem;
+  margin-top: 0.5rem;
+  margin-right: 1rem;
+  font-family: 'Roboto', sans-serif;
+  font-style: italic;
+  font-weight: 400;
+  color: rgb(61, 61, 61);
+}
+
+.profile-description__status {
+  text-align: right;
+  margin-right: 1rem;
+  margin-top: 0.3rem;
+  color: rgb(61, 61, 61);
+  font-family: 'Cuprum', sans-serif;
+  font-size: 0.85rem;
+}
+
+.profile-description__status-span {
+  padding-left: 1.5rem;
+  padding-bottom: 0.5rem;
+  border-bottom: solid 1px rgba(153, 153, 153, 0.350);
+}
+
+.profile-description__status-span:hover {
+  color: rgb(58, 221, 250);
+  cursor: pointer;
+}
+
+.profile-description__status-input {
+  outline:none;
+  border-radius: 0.25rem;
+  border: 1px solid rgba(128, 128, 128, 0.37);
+  padding-left: 0.2rem;
+  font-family: 'Cuprum', sans-serif;
+  width: 10rem;
+}
+
+.profile-description__data {
+  margin-top: 2rem;
+}
+
+.profile-description__about-user {
+  font-family: 'Cuprum', sans-serif;
+  text-align: left;
+  color: rgb(56, 56, 56);
+  border-spacing: 1rem 0.2rem;
+  width: 100%;
+}
+
+.about-user__caption {
+  margin-bottom: 0.5rem;
+  color: rgba(82, 82, 82, 0.699);
+}
+
+.about-user__point {
+  width: 25%;
+  vertical-align: top;
+}
+
+.about-user__answer {
+  width: 75%;
+  vertical-align: top;
+}
+
+.profile-description__contacts {
+  font-family: 'Cuprum', sans-serif;
+  text-align: left;
+  color: rgb(56, 56, 56);
+  border-spacing: 1rem 0.2rem;
+  width: 100%;
+}
+
+.contacts__caption {
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
+  color: rgba(82, 82, 82, 0.699);
+}
+
+.contacts__contact-name {
+  width: 25%;
+  vertical-align: top;
+}
+
+.contacts__contact-link {
+  width: 75%;
+  vertical-align: top;
+}
+
+.profile-wall {
+  margin-top: 0.5rem;
+  margin-left: 14.5rem;
+  margin-bottom: 1rem;
+}
+
+.profile-wall__chat-wrapper {
+  background-color: white;
+  border-radius: 0.25rem;
+  border: solid 1px rgba(128, 128, 128, 0.200);
+  overflow-y: auto;
+  max-height: 10rem;
+  word-wrap: break-word;
+}
+
+.profile-wall__chat-field {
+  outline: none;
+  font-family: 'Cuprum', sans-serif;
+  padding: 1.5rem 4rem 1.5rem 1rem;
+  align-items: center;
+}
+
+.profile-wall__chat-field:empty:before {
+  content: attr(placeholder);
+  display: block;
+  color: #aaa;
+  cursor: text;
+}
+
+.profile-wall__send-button-wrapper {
+  margin: 1rem 1rem 0 0;
+  float: right;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 2rem;
+  width: 2rem;
+  background-color: rgb(189, 242, 255);
+  border-radius: 0.25rem;
+}
+
+.profile-wall__send-button-wrapper:hover {
+  cursor: pointer;
+}
+
+.profile-wall__button-img {
+  height: 1.5rem;
+  opacity: 70%;
+}
+
+.profile-wall__send-button-wrapper:hover img  {
+  opacity: 100%;
+}
+
+.profile-wall__send-button {
+  width: 0.1px;
+  height: 0.1px;
+  opacity: 0;
+  position: absolute;
+  z-index: -1;
+}
+
+.profile-wall__message:hover .message__delete-btn {
+  display: block;
+}
+
+.profile-wall__message {
+  background-color: white;
+  border-radius: 0.25rem;
+  border: solid 1px rgba(128, 128, 128, 0.200);
+  margin-top: 0.5rem;
+  padding: 1rem 1rem 4rem 1rem;
+  font-size: 1rem;
+  font-family: 'Cuprum', sans-serif;
+  position: relative;
+}
+.profile-wall__message-enter {
+  transform: scale(1, 0.1);
+  opacity: 0;
+}
+
+.profile-wall__message-enter-active {
+  transform: scale(1, 1);
+  transition: transform 500ms, opacity 1000ms;
+  opacity: 1;
+}
+
+.profile-wall__message-enter-done{
+  transform: scale(1, 1);
+  opacity: 1;
+}
+
+.interaction-panel-wrapper {
+  height: 2.5rem;
+  width: 35.4375rem;
+  position: absolute;
+  bottom: 0;
+  border-top: solid 1px rgba(95, 95, 95, 0.164);
+  display: flex;
+  align-items: center;
+}
+
+.interaction-panel {
+  height: 2.5rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: left;
+}
+
+.interaction-panel__heart {
+  height: 0.1px;
+  width: 0.1px;
+  opacity: 0;
+  z-index: -1;
+  position: absolute;
+}
+
+.interaction-panel__heart-img {
+  opacity: 70%;
+  width: 1.5625rem;
+}
+
+.interaction-panel__heart-img:hover {
+  cursor: pointer;
+  opacity: 100%;
+}
+
+.interaction-panel__likes {
+  margin-left: 0.3rem;
+}
+
+.message {
+  margin-top: 1.5rem;
+  position: relative;
+}
+
+.message:first-child {
+  margin-top: 0;
+}
+
+.message__avatar {
+  height: 3.125rem;
+  width: 3.125rem;
+  float: left;
+  border-radius: 0.25rem;
+  background-image: url(../../assets/img/avatar.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+
+.message__body {
+  margin-left: 4.375rem;
+  line-height: 120%;
+}
+
+.message__from {
+  font-size: 1.1rem;
+  font-style: italic;
+  font-weight: 400;
+  display: inline;
+  font-family: 'Roboto', sans-serif;
+}
+
+.message__time {
+  margin-left: 0.5rem;
+  color: #a5a5a5;
+}
+
+.message__date {
+  float: right;
+  color: #a5a5a5;
+}
+
+.message__text {
+  margin: 0.5rem 0 0 0;
+  word-wrap: break-word;
+  color: rgb(56, 56, 56);
+}
+
+.message__additional-text {
+  margin: 0.5rem 0 0 0;
+}
+
+
+.profile-form {
+  background-color: white;
+  border-radius: 0.25rem;
+  margin-left: 14.5rem;
+  border: solid 1px rgba(128, 128, 128, 0.200);
+  padding-bottom: 1rem;
+  font-family: 'Cuprum', sans-serif;
+}
+
+.profile-form__cancel-button, .profile-form__accept-button-label  {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 2.7rem;
+  height: 1.5rem;
+  border: solid 1px rgba(128, 128, 128, 0.37);
+  border-radius: 0.25rem;
+  margin-top: 0.5rem;
+}
+
+.profile-form__cancel-button {
+  float: left;
+  margin-left: 1rem;
+}
+
+.profile-form__accept-button-label {
+  margin-left: 4.5rem;
+}
+
+.profile-form__accept-button {
+  height: 0.1px;
+  width: 0.1px;
+  opacity: 0;
+  position: absolute;
+  z-index: -1;
+}
+
+.profile-form__cancel-button:hover, .profile-form__accept-button-label:hover {
+  border: 1px solid rgba(128, 128, 128, 0.699);
+  background-color: rgba(167, 237, 255, 0.158);
+  cursor: pointer;
+}
+
+.profile-form__full-name-input, .profile-form__about-me-input, .profile-form__contact  {
+  border: solid 1px rgba(128, 128, 128, 0.521);
+  padding-left: 0.3rem;
+  border-radius: 0.25rem;
+  height: 1.2rem;
+  width: 11.75rem;
+  outline: none;
+}
+
+.profile-form__body {
+  margin: 0.5rem 0 0 1rem;
+  color: rgb(56, 56, 56);
+}
+
+.profile-form__basic-info {
+  font-weight: normal;
+  margin: 0 0 1rem 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: rgba(82, 82, 82, 0.699);
+}
+
+.profile-form__input-body, .profile-form__textarea-body, .profile-form__contact-body {
+  margin-top: 0.3rem;
+  position: relative;
+}
+
+.profile-form__textarea {
+  border-radius: 0.25rem;
+  border: solid 1px rgba(128, 128, 128, 0.521);
+  width: 11.875rem;
+  height: 5rem;
+  overflow-y: auto;
+  resize: none;
+  font-family: 'Cuprum', sans-serif;
+  font-size: 1rem;
+  outline: none;
+}
+
+.profile-form__contacts {
+  font-weight: normal;
+  margin: 1rem 0 1rem 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: rgba(82, 82, 82, 0.699);
+}
+
+.profile-form__async-error {
+  margin-top: 0.5rem;
+  height: 1rem;
+  text-align: center;
+  color: rgb(233, 97, 97);
+}
+
+.message-stub {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 4rem;
+  background-color: white;
+  border-radius: 0.25rem;
+  border: solid 1px rgba(128, 128, 128, 0.200);
+  margin-top: 0.5rem;
+  padding: 1rem;
+  font-size: 1.5rem;
+  font-family: 'Cuprum', sans-serif;
+  color: gray;
+}
+
+.message-stub-appear {
+  opacity: 0;
+}
+
+.message-stub-appear-active {
+  opacity: 1;
+  transition: opacity 700ms;
+}
+
+.message-stub-appear-done {
+  opacity: 1;
+}
+

@@ -1,0 +1,36 @@
+.header {
+  height: 2.8rem;
+  width: 100%;
+  background-color: rgb(189, 242, 255);
+  position: fixed;
+  z-index: 1000;
+}
+
+.siteLogo {
+  display: flex;
+  align-items: center;
+  font-family: 'Amaranth', sans-serif;
+  height: 100%;
+  width: 4rem;
+  float: left;
+  font-size: 1.8rem;
+  margin-left: 1rem;
+  color: black;
+}
+
+.exitButton {
+  display: flex;
+  align-items: center;
+  position: absolute;
+  right: 0;
+  margin-right: 2rem;
+  height: 2.8rem;
+  font-family: 'Teko', sans-serif;
+  font-size: 1.3rem;
+  font-weight: 600;
+}
+
+.exitButton:hover {
+  cursor: pointer;
+  color: rgb(82, 82, 82);
+}

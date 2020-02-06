@@ -1,0 +1,909 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fe042ff5-c3a4-4c58-8736-dbbb76b7731b" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="my-own-social-network" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/App.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="358">
+              <caret line="77" column="33" selection-start-line="77" selection-start-column="33" selection-end-line="77" selection-end-column="33" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="27" column="33" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/Dialogs/Dialogs.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="11" selection-start-line="11" selection-end-line="33" selection-end-column="37" />
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/API/API.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="26" selection-start-column="26" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/Dialogs/DialogsContainer.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+              <folding>
+                <element signature="e#0#38#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/Header/Header.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="16" selection-start-line="16" selection-end-line="21" selection-end-column="15" />
+              <folding>
+                <element signature="e#0#56#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="47" selection-start-line="20" selection-start-column="47" selection-end-line="20" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/Dialogs/ChatWall/СhatWall.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1360">
+              <caret line="83" column="10" selection-start-line="83" selection-start-column="10" selection-end-line="83" selection-end-column="10" />
+              <folding>
+                <element signature="e#0#47#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/Dialogs/Dialogs.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="10" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/Navbar/Navbar.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="33" selection-start-line="33" selection-end-line="60" selection-end-column="10" />
+              <folding>
+                <element signature="e#0#38#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>url</find>
+      <find>contact</find>
+      <find>useCallback</find>
+      <find>dialogsField__chat</find>
+      <find>profile-wall__send-button-wrapper</find>
+      <find>dialogsField__messages</find>
+      <find>message-is-unread</find>
+      <find>scrollTo</find>
+      <find>contact__name</find>
+      <find>world-wrap</find>
+      <find>wrap</find>
+      <find>chat-wr</find>
+      <find>dialogsField</find>
+      <find>contactIs</find>
+      <find>companion</find>
+      <find>px</find>
+      <find>users-list__user-avatar</find>
+      <find>contact__avatar</find>
+      <find>message-wrapper</find>
+      <find>message__delete</find>
+      <find>server-error__text</find>
+      <find>autofocu</find>
+      <find>message</find>
+      <find>message-delete</find>
+      <find>message__delete-btn</find>
+      <find>profile-wall__message</find>
+      <find>message__text</find>
+      <find>setServerError</find>
+      <find>isInitialized</find>
+      <find>server-error</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>setError</replace>
+      <replace>app-error</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\Users\sente\Desktop\training\NODE\react\my-own-social-network\src\components\Profile\ProfileInfo</dir>
+      <dir>C:\Users\sente\Desktop\training\NODE\react\my-own-social-network\src\components\Dialogs</dir>
+      <dir>C:\Users\sente\Desktop\training\NODE\react\my-own-social-network\src\API</dir>
+      <dir>C:\Users\sente\Desktop\training\NODE\react\my-own-social-network\src\components\Login</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/redux/reducers/usersReducer.js" />
+        <option value="$PROJECT_DIR$/src/redux/reducers/authReducer.js" />
+        <option value="$PROJECT_DIR$/src/components/Profile/ProfileWall/WallMessage.jsx" />
+        <option value="$PROJECT_DIR$/src/components/Dialogs/CompanionsList/CompanionsList.jsx" />
+        <option value="$PROJECT_DIR$/src/components/Dialogs/CompanionsList/Companion.jsx" />
+        <option value="$PROJECT_DIR$/src/components/Dialogs/ContactsList/ContactsList.jsx" />
+        <option value="$PROJECT_DIR$/src/components/Users/Users.css" />
+        <option value="$PROJECT_DIR$/../../../../EXERCISE/html conspect.js" />
+        <option value="$PROJECT_DIR$/src/components/Dialogs/DialogsContainer.jsx" />
+        <option value="$PROJECT_DIR$/src/components/Dialogs/Dialogs.jsx" />
+        <option value="$PROJECT_DIR$/../../../js/js2/js.js" />
+        <option value="$PROJECT_DIR$/src/components/Dialogs/ChatWall/ChatWall.js" />
+        <option value="$PROJECT_DIR$/src/components/Users/UserSearcher.jsx" />
+        <option value="$PROJECT_DIR$/src/components/Users/UsersContainer.jsx" />
+        <option value="$PROJECT_DIR$/src/components/Users/Users.jsx" />
+        <option value="$PROJECT_DIR$/src/components/Users/Users.js" />
+        <option value="$PROJECT_DIR$/src/components/Users/User.jsx" />
+        <option value="$PROJECT_DIR$/src/components/Profile/Profile.jsx" />
+        <option value="$PROJECT_DIR$/src/components/Profile/ProfileInfo/ProfileStatus.jsx" />
+        <option value="$PROJECT_DIR$/src/components/Profile/ProfileInfo/ProfileInfoForm.jsx" />
+        <option value="$PROJECT_DIR$/src/components/Profile/ProfileInfo/ProfileInfo.jsx" />
+        <option value="$PROJECT_DIR$/src/components/Profile/ProfileInfo/ProfileDescription.jsx" />
+        <option value="$PROJECT_DIR$/src/components/Profile/ProfileInfo/ProfileAvatar.jsx" />
+        <option value="$PROJECT_DIR$/src/redux/reducers/dialogsReducer.js" />
+        <option value="$PROJECT_DIR$/src/components/Dialogs/ChatWall/ChatField.jsx" />
+        <option value="$PROJECT_DIR$/src/common/DeleteMessageBtn/DeleteMessageBtn.jsx" />
+        <option value="$PROJECT_DIR$/src/components/Dialogs/ContactsList/Contact.jsx" />
+        <option value="$PROJECT_DIR$/src/components/Profile/ProfileWall/ProfileWall.jsx" />
+        <option value="$PROJECT_DIR$/src/common/JS/replaceHtmlSymbols.js" />
+        <option value="$PROJECT_DIR$/src/common/JS/linkParsers.js" />
+        <option value="$PROJECT_DIR$/../reactConspect.js" />
+        <option value="$PROJECT_DIR$/src/common/JS/extractLinks.js" />
+        <option value="$PROJECT_DIR$/src/components/Profile/Profile.css" />
+        <option value="$PROJECT_DIR$/src/components/Profile/ProfileWall/Message.jsx" />
+        <option value="$PROJECT_DIR$/src/components/Dialogs/ChatWall/Message.jsx" />
+        <option value="$PROJECT_DIR$/src/components/Profile/ProfileWall/ChatField.jsx" />
+        <option value="$PROJECT_DIR$/src/HOC/withSendMessageHandlers.js" />
+        <option value="$PROJECT_DIR$/src/common/JS/linkParser.js" />
+        <option value="$PROJECT_DIR$/src/redux/reducers/profileReducer.js" />
+        <option value="$PROJECT_DIR$/src/redux/reducers/appReducer.js" />
+        <option value="$PROJECT_DIR$/src/HOC/withLoginRedirect.js" />
+        <option value="$PROJECT_DIR$/src/components/Profile/ProfileContainer.jsx" />
+        <option value="$PROJECT_DIR$/src/common/JS/scrollTo.js" />
+        <option value="$PROJECT_DIR$/src/common/components/AppError.jsx" />
+        <option value="$PROJECT_DIR$/src/components/Navbar/Navbar.jsx" />
+        <option value="$PROJECT_DIR$/src/API/API.js" />
+        <option value="$PROJECT_DIR$/src/components/Dialogs/ChatWall/СhatWall.jsx" />
+        <option value="$PROJECT_DIR$/src/App.css" />
+        <option value="$PROJECT_DIR$/src/components/Dialogs/Dialogs.css" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/App.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="226" />
+    <option name="y" value="-4" />
+    <option name="width" value="972" />
+    <option name="height" value="1044" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="my-own-social-network" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-own-social-network" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my-own-social-network" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-own-social-network" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my-own-social-network" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-own-social-network" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="API" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my-own-social-network" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-own-social-network" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my-own-social-network" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-own-social-network" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="Dialogs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my-own-social-network" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-own-social-network" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="Dialogs" type="462c0819:PsiDirectoryNode" />
+              <item name="ChatWall" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my-own-social-network" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-own-social-network" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="Header" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my-own-social-network" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-own-social-network" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="Navbar" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/training/NODE/react/samurai" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JavaScript" />
+    <property name="ts.external.directory.path" value="D:\Program Files\JetBrains\WebStorm 2019.1.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sente\Desktop\training\NODE\react\my-own-social-network\src\utils" />
+      <recent name="C:\Users\sente\Desktop\training\NODE\react\my-own-social-network\src\components\Users" />
+      <recent name="C:\Users\sente\Desktop\training\NODE\react\my-own-social-network\src\components\Profile\ProfileWall" />
+      <recent name="C:\Users\sente\Desktop\training\NODE\react\my-own-social-network\src\components\Dialogs\DialogsList" />
+      <recent name="C:\Users\sente\Desktop\training\NODE\react\my-own-social-network\src\components\Dialogs\DialogsChat" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sente\Desktop\training\NODE\react\my-own-social-network\src\components\Profile\ProfileInfo" />
+      <recent name="C:\Users\sente\Desktop\training\NODE\react\my-own-social-network\src\assets\img" />
+      <recent name="C:\Users\sente\Desktop\training\NODE\react\my-own-social-network\src\common\FormControl" />
+      <recent name="C:\Users\sente\Desktop\training\NODE\react\my-own-social-network\src\components\Login" />
+      <recent name="C:\Users\sente\Desktop\training\NODE\react\my-own-social-network\src\components\Users" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe042ff5-c3a4-4c58-8736-dbbb76b7731b" name="Default Changelist" comment="" />
+      <created>1574861267506</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574861267506</updated>
+      <workItem from="1574861268709" duration="13264000" />
+      <workItem from="1574881652527" duration="2404000" />
+      <workItem from="1574944409516" duration="15034000" />
+      <workItem from="1575030366143" duration="19168000" />
+      <workItem from="1575289774937" duration="14638000" />
+      <workItem from="1575304948194" duration="28000" />
+      <workItem from="1575375922301" duration="16400000" />
+      <workItem from="1575463447718" duration="15617000" />
+      <workItem from="1575549130383" duration="14382000" />
+      <workItem from="1575635632099" duration="16009000" />
+      <workItem from="1575895691841" duration="15576000" />
+      <workItem from="1575981292173" duration="13555000" />
+      <workItem from="1576067621922" duration="15070000" />
+      <workItem from="1576153567119" duration="16593000" />
+      <workItem from="1576240115774" duration="15138000" />
+      <workItem from="1576499573118" duration="16555000" />
+      <workItem from="1576586851987" duration="14460000" />
+      <workItem from="1576672514301" duration="3990000" />
+      <workItem from="1576758356440" duration="151000" />
+      <workItem from="1577367213339" duration="1350000" />
+      <workItem from="1577375619361" duration="1835000" />
+      <workItem from="1577456291796" duration="3191000" />
+      <workItem from="1577473357695" duration="1431000" />
+      <workItem from="1577482154078" duration="1859000" />
+      <workItem from="1577532072141" duration="2507000" />
+      <workItem from="1577559983044" duration="750000" />
+      <workItem from="1577620686731" duration="772000" />
+      <workItem from="1577982251302" duration="1375000" />
+      <workItem from="1578039585637" duration="18328000" />
+      <workItem from="1578071598441" duration="29000" />
+      <workItem from="1578313816666" duration="14058000" />
+      <workItem from="1578399639136" duration="9039000" />
+      <workItem from="1578419533348" duration="2964000" />
+      <workItem from="1578431445792" duration="677000" />
+      <workItem from="1578486900321" duration="20890000" />
+      <workItem from="1578509853962" duration="241000" />
+      <workItem from="1578515687233" duration="2490000" />
+      <workItem from="1578573118209" duration="18503000" />
+      <workItem from="1578660127572" duration="13487000" />
+      <workItem from="1578753281630" duration="3383000" />
+      <workItem from="1578917855741" duration="17077000" />
+      <workItem from="1579005287115" duration="18093000" />
+      <workItem from="1579091514849" duration="16480000" />
+      <workItem from="1579178041255" duration="16080000" />
+      <workItem from="1579264897499" duration="14484000" />
+      <workItem from="1579347990145" duration="2157000" />
+      <workItem from="1579520567716" duration="17166000" />
+      <workItem from="1579609787413" duration="16049000" />
+      <workItem from="1579634002086" duration="2150000" />
+      <workItem from="1579694226091" duration="18173000" />
+      <workItem from="1579780595032" duration="17427000" />
+      <workItem from="1579865669675" duration="15315000" />
+      <workItem from="1579886808898" duration="498000" />
+      <workItem from="1580128412941" duration="15269000" />
+      <workItem from="1580212768635" duration="17421000" />
+      <workItem from="1580297982695" duration="13614000" />
+      <workItem from="1580386558955" duration="12420000" />
+      <workItem from="1580407655370" duration="5155000" />
+      <workItem from="1580470081502" duration="19923000" />
+      <workItem from="1580500322279" duration="7489000" />
+      <workItem from="1580509968539" duration="1654000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="621285000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7414634" visible="true" weight="0.1886196" />
+      <window_info id="npm" order="1" sideWeight="0.2567714" side_tool="true" weight="0.14646997" />
+      <window_info id="Favorites" order="2" sideWeight="0.25853658" side_tool="true" weight="0.14646997" />
+      <window_info id="Structure" order="3" sideWeight="0.25537294" weight="0.14646997" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.23726977" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.19068256" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.51001054" side_tool="true" weight="0.20585048" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.48998946" visible="true" weight="0.30985916" />
+      <window_info anchor="bottom" id="TypeScript" order="11" weight="0.32936078" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/components/Profile/ProfileInfo/ProfileAvatar.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Users/Users.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Profile/ProfileInfo/ProfileInfo.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-136">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/redux/reducers/authReducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="761">
+          <caret line="106" column="11" lean-forward="true" selection-start-line="106" selection-start-column="11" selection-end-line="106" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Dialogs/ContactsList/ContactsList.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Dialogs/ChatWall/ChatField.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="10" column="45" lean-forward="true" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Dialogs/ChatWall/ChatWall.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="40" lean-forward="true" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Profile/ProfileWall/ProfileWall.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="20" column="20" lean-forward="true" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Users/Users.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Dialogs/ContactsList/Contact.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json" />
+    <entry file="file://$PROJECT_DIR$/yarn.lock">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Profile/Profile.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="18" column="54" selection-start-line="18" selection-start-column="54" selection-end-line="18" selection-end-column="54" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../reactConspect.js" />
+    <entry file="file://$PROJECT_DIR$/src/common/JS/getDate.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="15" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/JS/linkParsers.js" />
+    <entry file="file://$PROJECT_DIR$/src/common/JS/replaceHtmlSymbols.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Profile/Profile.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="583">
+          <caret line="482" selection-start-line="482" selection-end-line="482" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Dialogs/ChatWall/Message.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="21" lean-forward="true" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Profile/ProfileWall/ChatField.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="35" column="13" lean-forward="true" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Navbar/Navbar.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/redux/reducers/reduxFormReducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="38" lean-forward="true" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/redux/reducers/profileReducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="13" lean-forward="true" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HOC/withLoginRedirect.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Profile/ProfileContainer.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-17">
+          <caret line="34" column="92" selection-start-line="34" selection-start-column="92" selection-end-line="34" selection-end-column="92" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/JS/scrollTo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/FormControl/FormControl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/FormControl/FormControl.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/components/DeleteMessageBtn.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="31" lean-forward="true" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/redux/reducers/usersReducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/redux/reducers/dialogsReducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="867">
+          <caret line="54" column="2" selection-start-line="54" selection-start-column="2" selection-end-line="54" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/components/AppError.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="20" column="2" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/JS/linkParser.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="2" lean-forward="true" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/redux/reducers/appReducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="52" column="13" selection-start-line="52" selection-start-column="13" selection-end-line="52" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/redux/store.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="16" column="9" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#77#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Profile/ProfileWall/Message.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#0#75#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HOC/withSendMessageHandlers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../conspect.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/Dialogs/Dialogs.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="11" selection-start-line="11" selection-end-line="33" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Dialogs/DialogsContainer.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Header/Header.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="16" selection-start-line="16" selection-end-line="21" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="47" selection-start-line="20" selection-start-column="47" selection-end-line="20" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Dialogs/ChatWall/СhatWall.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1360">
+          <caret line="83" column="10" selection-start-line="83" selection-start-column="10" selection-end-line="83" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Dialogs/Dialogs.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Navbar/Navbar.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="33" selection-start-line="33" selection-end-line="60" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="27" column="33" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="77" column="33" selection-start-line="77" selection-start-column="33" selection-end-line="77" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/API/API.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="26" selection-start-column="26" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

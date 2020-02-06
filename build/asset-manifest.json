@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/qq/static/css/main.bd4898fd.chunk.css",
+    "main.js": "/qq/static/js/main.fff98c42.chunk.js",
+    "main.js.map": "/qq/static/js/main.fff98c42.chunk.js.map",
+    "runtime-main.js": "/qq/static/js/runtime-main.ae6e2eb9.js",
+    "runtime-main.js.map": "/qq/static/js/runtime-main.ae6e2eb9.js.map",
+    "static/js/2.9011c826.chunk.js": "/qq/static/js/2.9011c826.chunk.js",
+    "static/js/2.9011c826.chunk.js.map": "/qq/static/js/2.9011c826.chunk.js.map",
+    "index.html": "/qq/index.html",
+    "precache-manifest.a2aca19ed442b7f158909672a1207a48.js": "/qq/precache-manifest.a2aca19ed442b7f158909672a1207a48.js",
+    "service-worker.js": "/qq/service-worker.js",
+    "static/css/main.bd4898fd.chunk.css.map": "/qq/static/css/main.bd4898fd.chunk.css.map",
+    "static/media/demoAva1.jfif": "/qq/static/media/demoAva1.261c625b.jfif",
+    "static/media/demoAva2.jfif": "/qq/static/media/demoAva2.165e1dc5.jfif",
+    "static/media/news.png": "/qq/static/media/news.816dc0f7.png",
+    "static/media/profile.png": "/qq/static/media/profile.e1ab5324.png",
+    "static/media/users.png": "/qq/static/media/users.2a5980a1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae6e2eb9.js",
+    "static/js/2.9011c826.chunk.js",
+    "static/css/main.bd4898fd.chunk.css",
+    "static/js/main.fff98c42.chunk.js"
+  ]
+}
